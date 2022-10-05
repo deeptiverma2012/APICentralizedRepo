@@ -1,0 +1,7 @@
+{
+ "firstname":"{{firstname}}",
+ "lastname":"{{lastname}}",
+ "id":"{{id}}",
+ "Designation":"TL" 
+}
+
