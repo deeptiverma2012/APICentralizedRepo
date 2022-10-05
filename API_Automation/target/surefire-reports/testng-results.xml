@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15344" started-at="2022-10-05T12:48:46 CDT" finished-at="2022-10-05T12:49:02 CDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15344" started-at="2022-10-05T12:48:46 CDT" finished-at="2022-10-05T12:49:02 CDT">
+      <class name="org.testing.testcase.TC4_PutRequest">
+        <test-method status="PASS" signature="Testcase4()[pri:0, instance:org.testing.testcase.TC4_PutRequest@67b92f0a]" name="Testcase4" duration-ms="68" started-at="2022-10-05T12:48:53 CDT" finished-at="2022-10-05T12:48:53 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase4 -->
+      </class> <!-- org.testing.testcase.TC4_PutRequest -->
+      <class name="org.testing.testcase.TC1_PostRequest">
+        <test-method status="PASS" signature="Testcase1()[pri:0, instance:org.testing.testcase.TC1_PostRequest@3a5ed7a6]" name="Testcase1" duration-ms="5917" started-at="2022-10-05T12:48:46 CDT" finished-at="2022-10-05T12:48:52 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+      </class> <!-- org.testing.testcase.TC1_PostRequest -->
+      <class name="org.testing.testcase.TC10_DeleteRequest">
+        <test-method status="PASS" signature="Testcase10()[pri:0, instance:org.testing.testcase.TC10_DeleteRequest@887af79]" name="Testcase10" duration-ms="353" started-at="2022-10-05T12:49:01 CDT" finished-at="2022-10-05T12:49:02 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase10 -->
+      </class> <!-- org.testing.testcase.TC10_DeleteRequest -->
+      <class name="org.testing.testcase.TC8_GetRequest">
+        <test-method status="PASS" signature="Testcase8()[pri:0, instance:org.testing.testcase.TC8_GetRequest@61f8bee4]" name="Testcase8" duration-ms="407" started-at="2022-10-05T12:48:59 CDT" finished-at="2022-10-05T12:49:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase8 -->
+      </class> <!-- org.testing.testcase.TC8_GetRequest -->
+      <class name="org.testing.testcase.TC9_UpdateRequest">
+        <test-method status="PASS" signature="Testcase9()[pri:0, instance:org.testing.testcase.TC9_UpdateRequest@7b49cea0]" name="Testcase9" duration-ms="1461" started-at="2022-10-05T12:49:00 CDT" finished-at="2022-10-05T12:49:01 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase9 -->
+      </class> <!-- org.testing.testcase.TC9_UpdateRequest -->
+      <class name="org.testing.testcase.TC3_GetRequest">
+        <test-method status="PASS" signature="Testcase3()[pri:0, instance:org.testing.testcase.TC3_GetRequest@1d16f93d]" name="Testcase3" duration-ms="213" started-at="2022-10-05T12:48:52 CDT" finished-at="2022-10-05T12:48:53 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase3 -->
+      </class> <!-- org.testing.testcase.TC3_GetRequest -->
+      <class name="org.testing.testcase.TC6_PostRequest">
+        <test-method status="PASS" signature="Testcase6()[pri:0, instance:org.testing.testcase.TC6_PostRequest@65e2dbf3]" name="Testcase6" duration-ms="4981" started-at="2022-10-05T12:48:53 CDT" finished-at="2022-10-05T12:48:58 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase6 -->
+      </class> <!-- org.testing.testcase.TC6_PostRequest -->
+      <class name="org.testing.testcase.TC7_GetAllRequest">
+        <test-method status="PASS" signature="Testcase7()[pri:0, instance:org.testing.testcase.TC7_GetAllRequest@4f970963]" name="Testcase7" duration-ms="1293" started-at="2022-10-05T12:48:58 CDT" finished-at="2022-10-05T12:48:59 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase7 -->
+      </class> <!-- org.testing.testcase.TC7_GetAllRequest -->
+      <class name="org.testing.testcase.TC5_DeleteRequest">
+        <test-method status="PASS" signature="Testcase5()[pri:0, instance:org.testing.testcase.TC5_DeleteRequest@2b9627bc]" name="Testcase5" duration-ms="310" started-at="2022-10-05T12:48:53 CDT" finished-at="2022-10-05T12:48:53 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase5 -->
+      </class> <!-- org.testing.testcase.TC5_DeleteRequest -->
+      <class name="org.testing.testcase.TC2_GetAllRequest">
+        <test-method status="PASS" signature="Testcase2()[pri:0, instance:org.testing.testcase.TC2_GetAllRequest@6325a3ee]" name="Testcase2" duration-ms="281" started-at="2022-10-05T12:48:52 CDT" finished-at="2022-10-05T12:48:52 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase2 -->
+      </class> <!-- org.testing.testcase.TC2_GetAllRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
